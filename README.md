@@ -24,3 +24,11 @@ Durante o curso de testes automatizados com Cypress (intermediário) você vai a
 - Como habilitar funcionalidades experimentais do Cypress
 - Como executar comandos à nível de sistema operacional
 - E como testar a leitura de arquivos
+
+## Vamos começar?
+
+Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+
+___
+
+Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
